@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Body_Temperature Monitor_System-AIoT
+Body_Temperature Monitor System-AIoT
 </h1>
 
 
